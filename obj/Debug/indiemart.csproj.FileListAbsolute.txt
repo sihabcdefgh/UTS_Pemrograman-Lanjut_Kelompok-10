@@ -1,0 +1,56 @@
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\bin\Debug\indiemart.exe.config
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\bin\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\bin\Debug\indiemart.pdb
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.csproj.AssemblyReference.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.csproj.SuggestedBindingRedirects.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.Properties.Resources.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.csproj.GenerateResource.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.csproj.CoreCompileInputs.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.pdb
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.Login.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.Register.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\project UTS\indiemart\obj\Debug\indiemart.Form1.resources
+D:\sihab\indiemart\bin\Debug\indiemart.exe.config
+D:\sihab\indiemart\obj\Debug\indiemart.exe
+D:\sihab\indiemart\obj\Debug\indiemart.pdb
+D:\sihab\indiemart\bin\Debug\indiemart.exe
+D:\sihab\indiemart\bin\Debug\indiemart.pdb
+D:\sihab\indiemart\obj\Debug\indiemart.csprojResolveAssemblyReference.cache
+D:\sihab\indiemart\obj\Debug\indiemart.Form1.resources
+D:\sihab\indiemart\obj\Debug\indiemart.Register.resources
+D:\sihab\indiemart\obj\Debug\indiemart.Login.resources
+D:\sihab\indiemart\obj\Debug\indiemart.Properties.Resources.resources
+D:\sihab\indiemart\obj\Debug\indiemart.csproj.GenerateResource.Cache
+D:\sihab\indiemart\obj\Debug\indiemart.Viewproduct.resources
+D:\sihab\indiemart\obj\Debug\indiemart.Pembayaran.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\bin\Debug\indiemart.exe.config
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\bin\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\bin\Debug\indiemart.pdb
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.csproj.AssemblyReference.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.csproj.SuggestedBindingRedirects.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Form1.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Pembayaran.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Viewproduct.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Register.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Login.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.Properties.Resources.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.csproj.GenerateResource.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.csproj.CoreCompileInputs.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\uts up\indiemart\obj\Debug\indiemart.pdb
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\bin\Debug\indiemart.exe.config
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\bin\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\bin\Debug\indiemart.pdb
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.csproj.AssemblyReference.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.csproj.SuggestedBindingRedirects.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Form1.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Pembayaran.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Viewproduct.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Register.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Login.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.Properties.Resources.resources
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.csproj.GenerateResource.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.csproj.CoreCompileInputs.cache
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.exe
+D:\Matkul Semester 3\PEMROGRAMAN LANJUT\file uts upload\indiemart\indiemart\obj\Debug\indiemart.pdb
